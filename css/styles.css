@@ -76,7 +76,7 @@ a {
 .hero-button {
   background-color: var(--accent-color);
   color: var(--invert-text-color);
-  font-weight: bold;
+  font-weight: 700;
   font-size: 16px;
   line-height: 1.875;
   border-radius: 4px;
@@ -117,6 +117,7 @@ a {
   cursor: pointer;
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
+  font-weight: 500;
   color: var(--header-text-color);
   background-color: var(--button-background);
   border-radius: 4px;
